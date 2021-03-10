@@ -12,7 +12,7 @@ Techincal Exam for aequilibrium
 2. Get application project on GitHub: (Note: Make sure that Git was installed in you machine)
     
     - Git Command:
-        - https://github.com/davidmorada/TransformerApplication.git
+        - git clone https://github.com/davidmorada/TransformerApplication.git
 
 3. Go to project directory of the application.(ex. /application-exam/TransformerApplication)
 4. On this directory execute the command:
